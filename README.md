@@ -1,4 +1,4 @@
-# Networking-DNS-notes
+# DNS and HTTP/HTTPS - Notes.
 
 ## DNS
   DNS stands for Domain Name System 
