@@ -1,7 +1,6 @@
 # Networking-DNS-notes
 
-## Topic: DNS
-
+## DNS
   DNS stands for Domain Name System 
   
   Its translate a website name into an ip address. so computers can find and connect to the correct server on the internet.
